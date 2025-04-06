@@ -1,4 +1,4 @@
-# # GP Hospital Patient Management System
+# # Hospital Patient Management System
 
 A complete SQL database solution for managing patient registrations, appointments, medical records, and feedback in a GP hospital setting.
 
@@ -24,6 +24,4 @@ See `database/queries.sql` for example queries that demonstrate system functiona
 
 See `docs/REQUIREMENTS.md` for complete system requirements.
 
-## License
 
-MIT License - see LICENSE file for details.
