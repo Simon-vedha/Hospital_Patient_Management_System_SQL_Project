@@ -12,16 +12,16 @@ A complete SQL database solution for managing patient registrations, appointment
 
 ## Database Setup
 
-1. Run `database/schema.sql` to create the database structure
-2. Run `database/data.sql` to populate with sample data
-3. Run `database/procedures.sql` to create stored procedures
+1. Run `Hospital System/schema.sql` to create the database structure
+2. Run `Hospital System/data.sql` to populate with sample data
+3. Run `Hospital System/procedures.sql` to create stored procedures
 
 ## Sample Queries
 
-See `database/queries.sql` for example queries that demonstrate system functionality.
+See `Hospital System/queries.sql` for example queries that demonstrate system functionality.
 
 ## Requirements
 
-See `docs/REQUIREMENTS.md` for complete system requirements.
+See `REQUIREMENTS.md` for complete system requirements.
 
 
