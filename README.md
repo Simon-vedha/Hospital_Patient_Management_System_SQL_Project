@@ -1,4 +1,4 @@
-### Hospital Patient Management System
+# Hospital Patient Management System
 
 A complete SQL database solution for managing patient registrations, appointments, medical records, and feedback in a hospital setting.
 
