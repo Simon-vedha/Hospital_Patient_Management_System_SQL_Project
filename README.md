@@ -24,4 +24,4 @@ See `Hospital System/queries.sql` for example queries that demonstrate system fu
 
 See `REQUIREMENTS.md` for complete system requirements.
 
-
+Hospital System/EDR Diagram.png
